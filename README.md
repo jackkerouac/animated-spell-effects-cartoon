@@ -20,38 +20,38 @@ To use these animations, you need to <a href="https://github.com/Moerill/mess">u
 add the animation to ALL fields by type:
 
 <img src="https://github.com/jackkerouac/animated-spell-effects-cartoon/blob/main/image02.png" alt="Spell Effect Template 02" width="580" height="135">
-<img src="https://github.com/jackkerouac/animated-spell-effects-cartoon/blob/master/image03.png" alt="Spell Effect Template 03" width="610" height="660">
+<img src="https://github.com/jackkerouac/animated-spell-effects-cartoon/blob/main/image03.png" alt="Spell Effect Template 03" width="610" height="660">
 
 Very small sample of the effects (black backgrounds are transparent in FoundryVTT):
 
 <strong>Air</strong>
 
-<img src="https://github.com/jackkerouac/animated-spell-effects-cartoon/blob/master/air.gif" alt="Spell Effect Sample" width="600" height="600">
+<img src="https://github.com/jackkerouac/animated-spell-effects-cartoon/blob/main/air.gif" alt="Spell Effect Sample" width="600" height="600">
 
 <strong>Earth</strong>
 
-<img src="https://github.com/jackkerouac/animated-spell-effects-cartoon/blob/master/earth.gif" alt="Spell Effect Sample" width="600" height="600">
+<img src="https://github.com/jackkerouac/animated-spell-effects-cartoon/blob/main/earth.gif" alt="Spell Effect Sample" width="600" height="600">
 
 <strong>Electricity</strong>
 
-<img src="https://github.com/jackkerouac/animated-spell-effects-cartoon/blob/master/electricity.gif" alt="Spell Effect Sample" width="600" height="600">
+<img src="https://github.com/jackkerouac/animated-spell-effects-cartoon/blob/main/electricity.gif" alt="Spell Effect Sample" width="600" height="600">
 
 <strong>Energy</strong>
 
-<img src="https://github.com/jackkerouac/animated-spell-effects-cartoon/blob/master/energy.gif" alt="Spell Effect Sample" width="600" height="600">
+<img src="https://github.com/jackkerouac/animated-spell-effects-cartoon/blob/main/energy.gif" alt="Spell Effect Sample" width="600" height="600">
 
 <strong>Fire</strong>
 
-<img src="https://github.com/jackkerouac/animated-spell-effects-cartoon/blob/master/fire.gif" alt="Spell Effect Sample" width="600" height="600">
+<img src="https://github.com/jackkerouac/animated-spell-effects-cartoon/blob/main/fire.gif" alt="Spell Effect Sample" width="600" height="600">
 
 <strong>Magic</strong>
 
-<img src="https://github.com/jackkerouac/animated-spell-effects-cartoon/blob/master/magic.gif" alt="Spell Effect Sample" width="600" height="600">
+<img src="https://github.com/jackkerouac/animated-spell-effects-cartoon/blob/main/magic.gif" alt="Spell Effect Sample" width="600" height="600">
 
 <strong>Misc</strong>
 
-<img src="https://github.com/jackkerouac/animated-spell-effects-cartoon/blob/master/misc.gif" alt="Spell Effect Sample" width="600" height="600">
+<img src="https://github.com/jackkerouac/animated-spell-effects-cartoon/blob/main/misc.gif" alt="Spell Effect Sample" width="600" height="600">
 
 <strong>Mix</strong>
 
-<img src="https://github.com/jackkerouac/animated-spell-effects-cartoon/blob/master/mix.gif" alt="Spell Effect Sample" width="600" height="600">
+<img src="https://github.com/jackkerouac/animated-spell-effects-cartoon/blob/main/mix.gif" alt="Spell Effect Sample" width="600" height="600">
