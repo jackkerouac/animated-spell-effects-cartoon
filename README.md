@@ -34,7 +34,7 @@ Very small sample of the effects (black backgrounds are transparent in FoundryVT
 
 <strong>Electricity</strong>
 
-<img src="https://github.com/jackkerouac/animated-spell-effects-cartoon/blob/main/electricity.gif" alt="Spell Effect Sample" width="600" height="600">
+<img src="https://github.com/jackkerouac/animated-spell-effects-cartoon/blob/main/electicity.gif" alt="Spell Effect Sample" width="600" height="600">
 
 <strong>Energy</strong>
 
