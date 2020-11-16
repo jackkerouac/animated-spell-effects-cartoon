@@ -21,6 +21,7 @@ add the animation to ALL fields by type:
 
 <img src="https://github.com/jackkerouac/animated-spell-effects-cartoon/blob/main/image02.png" alt="Spell Effect Template 02" width="580" height="135">
 <img src="https://github.com/jackkerouac/animated-spell-effects-cartoon/blob/main/image03.png" alt="Spell Effect Template 03" width="610" height="660">
+<img src="https://github.com/jackkerouac/animated-spell-effects-cartoon/blob/main/spelltemplate.gif" alt="Spell Effect Sample" width="720" height="383">
 
 Very small sample of the effects (black backgrounds are transparent in FoundryVTT):
 
