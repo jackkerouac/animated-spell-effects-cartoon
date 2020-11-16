@@ -15,7 +15,7 @@ https://raw.githubusercontent.com/jackkerouac/animated-spell-effects-cartoon/mai
 # Instructions
 To use these animations, you need to <a href="https://github.com/Moerill/mess">use a module like MESS</a> to open a spell and on the details page and use the Template Texture field to apply the animation, or
 
-<img src="https://github.com/jackkerouac/animated-spell-effects-cartoon/raw/master/image01.png" alt="Spell Effect Template 01" width="539" height="648">
+<img src="https://github.com/jackkerouac/animated-spell-effects-cartoon/blob/main/image01.png" alt="Spell Effect Template 01" width="539" height="648">
 
 add the animation to ALL fields by type:
 
