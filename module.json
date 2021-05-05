@@ -15,9 +15,6 @@
   "conflicts": [
     
   ],
-  "esmodules": [
-    
-  ],
   "scripts": [
     
   ],
@@ -30,8 +27,16 @@
       "url": "https://avatars2.githubusercontent.com/u/341093?s=460&v=4"
     }
   ],
-  "version": "0.1.4",
-  "minimumCoreVersion": "0.5.5",
+  "scripts": [
+      "./scripts/settings.js",   
+      "./scripts/windowpopup.js"   
+  ],
+  "type": "module",
+  "esmodules": [
+      "./scripts/loadEffects.js"
+  ],
+  "version": "0.1.5",
+  "minimumCoreVersion": "0.7.9",
   "compatibleCoreVersion": "0.7.9",
   "url": "https://github.com/jackkerouac/animated-spell-effects-cartoon",
   "manifest": "https://raw.githubusercontent.com/jackkerouac/animated-spell-effects-cartoon/master/module.json",
