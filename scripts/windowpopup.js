@@ -11,7 +11,7 @@ Hooks.once('ready', async function () {
                 two: {
                     icon: '<i class="fas fa-clipboard-check"></i>',
                     label: "Don't show again",
-                    callback: () => game.settings.set("jkae", "runonlyonce", true)                     
+                    callback: () => game.settings.set("animated-spell-effects-cartoon", "jkrunonlyonce", true)                     
                 },               
             },
                   
