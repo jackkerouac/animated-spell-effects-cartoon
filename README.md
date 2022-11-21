@@ -1,4 +1,4 @@
-![](https://img.shields.io/badge/Foundry-v0.7.9-informational)
+![](https://img.shields.io/badge/Foundry-v10.230-informational)
 <!--- Downloads @ Latest Badge -->
 <!--- replace <user>/<repo> with your username/repository -->
 <!--- ![Latest Release Download Count](https://img.shields.io/github/downloads/jackkerouac/animated-spell-effects-cartoon/latest/module.zip) -->
