@@ -1,3 +1,6 @@
+### 0.2.5
+* Added Air Explosion (default, green, red, blue, yellow, purple), Air Gust (default, green, red, blue, yellow, purple) and Air Spiral (default, green, red, blue, yellow, purple).
+* 
 ### 0.2.4.1
 * Maintenance Release
 * Still struggling with GitHub, sigh.
