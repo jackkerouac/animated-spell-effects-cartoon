@@ -1,3 +1,8 @@
+### 0.2.7
+* Added five (5) Debris Elements (located under Earth directory)
+* Added Cool Cat Element (Ha!)
+* Added five (5) Electricity Elements
+
 ### 0.2.6
 * Added Air Bubble, Flaming Sphere, Misty Step
 
