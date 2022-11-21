@@ -1,5 +1,6 @@
 ### 0.2.4.1
 * Maintenance Release
+* Still struggling with GitHub, sigh.
 
 ### 0.2.4
 * Added  Aganazzar's Scorcher, Continual Flame, Darkness.
