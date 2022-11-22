@@ -1,3 +1,7 @@
+### 0.2.8
+* Added thirty-two (32!) Electricity Elements
+* The individual elements are useful for those making their own spell effects using Sequencer (great program!), etc.
+
 ### 0.2.7
 * Added five (5) Debris Elements (located under Earth directory)
 * Added Cool Cat Element (Ha!)
