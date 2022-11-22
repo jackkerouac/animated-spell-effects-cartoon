@@ -1,8 +1,11 @@
+### 0.3.0
+* Added twenty (25) Energy Elements (for a total of 35)
+
 ### 0.2.9
 * Added ten (10) Energy Elements
 
 ### 0.2.8
-* Added thirty-two (32!) Electricity Elements
+* Added thirty-two (32!) Electricity Elements (for a total of 37)
 * The individual elements are useful for those making their own spell effects using Sequencer (great program!), etc.
 
 ### 0.2.7
