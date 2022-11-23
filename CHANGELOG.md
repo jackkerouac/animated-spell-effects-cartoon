@@ -1,3 +1,7 @@
+### 0.3.2
+* We Flame to Please, II: Electric Boogaloo
+* Added sixty (60) fire elements, for a total of around 80-something
+
 ### 0.3.1 
 * We Flame to Please!
 * Added eighteen (18) Explosion Elements
