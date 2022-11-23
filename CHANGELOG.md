@@ -1,3 +1,8 @@
+### 0.3.1 
+* We Flame to Please!
+* Added eighteen (18) Explosion Elements
+* Added twenty (20) Fire Elements (with LOTS more to come)
+
 ### 0.3.0
 * Added twenty (25) Energy Elements (for a total of 35)
 
