@@ -1,3 +1,7 @@
+### 0.3.4
+* Simple Simon
+* Added 59 Simple Elements (elements with their colours, etc. stripped out)
+
 ### 0.3.3
 * Tidey Update
 * Add one hundred and twenty-two (122) Liquid Elements
