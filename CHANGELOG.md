@@ -1,3 +1,8 @@
+### 0.3.3
+* Tidey Update
+* Add one hundred and twenty-two (122) Liquid Elements
+* Added thirteen (13) Flash Elements
+
 ### 0.3.2
 * We Flame to Please, II: Electric Boogaloo
 * Added sixty (60) fire elements, for a total of around 80-something
