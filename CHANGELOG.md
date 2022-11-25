@@ -1,3 +1,7 @@
+### 0.3.5
+* Taking Your Breath Away
+* Added sixty-one (61) Smoke Elements
+
 ### 0.3.4
 * Simple Simon
 * Added 59 Simple Elements (elements with their colours, etc. stripped out)
