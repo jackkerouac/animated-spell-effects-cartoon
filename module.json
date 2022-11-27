@@ -10,13 +10,13 @@
 
   ],
   "esmodules": [
-    
+    "scripts/sequencer-db.js"
   ],
   "scripts": [
-    
+
   ],
   "styles": [
-    
+
   ],
   "media": [
     {
