@@ -1,3 +1,7 @@
+### 0.3.6
+* Jumping the Spark
+* Added seventy-nine (79) Spark Elements
+
 ### 0.3.5
 * Taking Your Breath Away
 * Added sixty-one (61) Smoke Elements
