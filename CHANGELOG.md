@@ -1,3 +1,8 @@
+### 0.3.8
+* Be audit you can be!
+* Added more animations to the Sequencer database
+* NOTE: You need to install the module Jack Kerouac's Spell Effects Sequencer Plugin (https://github.com/MrVauxs/Sequencer-JKAE-Database)
+
 ### 0.3.7
 * Going with the Flow
 * Started adding all of the 100s of new animations to the Sequencer database.
