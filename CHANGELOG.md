@@ -1,3 +1,8 @@
+### 0.3.7
+* Going with the Flow
+* Started adding all of the 100s of new animations to the Sequencer database.
+* BIG THANK YOU to MrVauxs for showing me the way!
+
 ### 0.3.6
 * Jumping the Spark
 * Added seventy-nine (79) Spark Elements
