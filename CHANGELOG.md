@@ -1,3 +1,7 @@
+### 0.3.9
+* I can't even
+* Added more animations to the Sequencer database (fire)
+
 ### 0.3.8
 * Be audit you can be!
 * Added more animations to the Sequencer database
