@@ -1,3 +1,7 @@
+### 0.4.0
+* That's odd
+* Added more animations to the Sequencer database (level 01)
+
 ### 0.3.9
 * I can't even
 * Added more animations to the Sequencer database (fire)
