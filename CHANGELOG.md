@@ -1,3 +1,7 @@
+### 0.4.1
+* That's oddly almost done
+* Added more animations to the Sequencer database (level 02, magic, misc)
+
 ### 0.4.0
 * That's odd
 * Added more animations to the Sequencer database (level 01)
