@@ -1,3 +1,8 @@
+### 0.4.2
+* Fin
+* Added the rest of the animations to the Sequencer database
+* Moving on to creating spell macros, using Sequencer
+
 ### 0.4.1
 * That's oddly almost done
 * Added more animations to the Sequencer database (level 02, magic, misc)
