@@ -1,3 +1,8 @@
+### 0.4.3
+* The Sound of Music!
+* Added 151 sound effects in different categories
+* Added beginning stages of a Macro Compendium. Nothing really in it yet, but will eventually be used to add macro VFX effects for specific spells.
+
 ### 0.4.2
 * Fin
 * Added the rest of the animations to the Sequencer database
