@@ -1,3 +1,7 @@
+### 0.4.4
+* A touch of magic
+* Added a new compendium - Spells. It's a work in progress, so nothing to show for it yet.
+
 ### 0.4.3
 * The Sound of Music!
 * Added 151 sound effects in different categories

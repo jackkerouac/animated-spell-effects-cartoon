@@ -908,7 +908,10 @@ Hooks.once('ready', () => {
                 "117": `${PATH}/water/liquid_117_800x800.webm`,
                 "119": `${PATH}/water/liquid_119_800x800.webm`,
                 "121": `${PATH}/water/liquid_121_800x800.webm`,
-                "acid splash": `${PATH}/water/acid_splash_CIRCLE_02.webm`,
+                "acid splash": {
+                    "01": `${PATH}/water/acid_splash_800x800.webm`,
+                    "02": `${PATH}/water/acid_splash_CIRCLE_02.webm`,
+                },
                 "ball": `${PATH}/water/water_ball_CIRCLE_01.webm`,
                 "create": {
                     "01": `${PATH}/water/create_water_CIRCLE_01.webm`,
