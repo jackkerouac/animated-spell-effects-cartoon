@@ -9,7 +9,7 @@ jobs:
     - uses: actions/checkout@v2
 
     # create a zip file with all files required by the module to add to the release
-    - run: zip -r ./module.zip module.json CHANGELOG.md spell-effects/ scripts/
+    - run: zip -r ./module.zip module.json CHANGELOG.md spell-effects/ scripts/ sound-fx/ packs/
 
     # Get the version from 'module.json'
     - name: Get Version

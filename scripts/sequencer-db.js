@@ -1,5 +1,4 @@
-Hooks.once('ready', () => {
-    if (game.modules.get("sequencer")?.active) {
+Hooks.once('sequencer.ready', () => {
         const PATH = "modules/animated-spell-effects-cartoon/spell-effects/cartoon";
         const cartoonDatabase = {
             "air": {
@@ -932,5 +931,5 @@ Hooks.once('ready', () => {
             },
         };
         Sequencer.Database.registerEntries('animated-spell-effects-cartoon', cartoonDatabase);
-    }
+    
 });
