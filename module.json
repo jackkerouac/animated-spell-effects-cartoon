@@ -16,6 +16,7 @@
       "label": "JK - Spell Macros",
       "path": "packs/jk-cartoon-macros.db",
       "private": false,
+      "system": "dnd5e",
       "type": "Macro",
       "flags": {}
     },
@@ -24,6 +25,7 @@
       "label": "JK - Spells",
       "path": "packs/jk-cartoon-spells.db",
       "private": false,
+      "system": "dnd5e",
       "type": "Item",
       "flags": {}
     }
