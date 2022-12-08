@@ -1,3 +1,8 @@
+### 0.4.5
+* So I used to work at an orange juice factory ... but I got canned because I couldn't concentrate.
+* Added Concentration status effect
+* Added a new spells to compendium. Just a couple so far, but with potential to grow!
+
 ### 0.4.4
 * A touch of magic
 * Added a new compendium - Spells. It's a work in progress, so nothing to show for it yet.

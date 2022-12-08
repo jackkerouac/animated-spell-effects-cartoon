@@ -196,6 +196,7 @@ Hooks.once('sequencer.ready', () => {
             "conditions": {
                 "blinded": `${PATH}/conditions/condition_blinded_800x800.webm`,
                 "charmed": `${PATH}/conditions/condition_charmed_800x800.webm`,
+                "concentrating": `${PATH}/conditions/condition_concentrating_800x800.webm`,
                 "deafened": `${PATH}/conditions/condition_deafened_800x800.webm`,
                 "exhaustion": `${PATH}/conditions/condition_exhaustion_800x800.webm`,
                 "frightened": `${PATH}/conditions/condition_frightened_800x800.webm`,
